@@ -1,0 +1,10 @@
+#L07T04
+line = input("Enter a number: ")
+line2 = input("Enter second number: ")
+x = int(line)
+y = int(line2)
+print("Lukujesi laskutoimituksia")
+print("Yhteenlasku:", x + y)
+print("Erotus:", x - y)
+print("Tulo:", x * y)
+print("Jako", x / y)
